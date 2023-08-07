@@ -15,7 +15,7 @@ class Account:
             return "Insufficient balance."
 
 # Creating an object of the Account class
-account1 = Account("John Doe", "1234567890", 1000)
+account1 = Account("John", "1234567890", 1000)
 
 print(account1.get_balance())  # Output: 1000
 print(account1.withdraw_money(500))  # Output: 500
