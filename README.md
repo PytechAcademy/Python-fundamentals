@@ -13,6 +13,9 @@ Welcome to our public GitHub repository dedicated to Python fundamentals! Here, 
 | `05.Loops`               | Exercises for loops - 'while and for' and control statements - 'break and continue'.            |
 | `06.Functions`           | Codes for user-defined functions and argument types, Lambda functions                           |
 | `07.ObjectOrientedProg.` | Codes for OOP concept - Class, Object, Inheritance, Polymorphism, Abstraction and Encapsulation |
+| `08.ExceptionHandling`   | Codes for handling errors - try, except, finally, built-in and custom exceptions                |
+| `09.Modules&Packages`    | Organising codes in structured way - modules and packages                                       |
+| `10.FileHandling`        | Codes related to handling txt, json and csv files                                               |
 
 More folders and content will be added regularly to enrich your learning experience. We encourage you to explore and contribute to this open-source repository. Your feedback and contributions are valuable to us. Let's learn and grow together! 🌱
 
