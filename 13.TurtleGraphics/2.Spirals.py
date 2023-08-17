@@ -8,11 +8,11 @@ screen = turtle.Screen()
 pen = turtle.Turtle()
 
 # Generate a rainbow spiral
-pen.speed(0)
+pen.speed(5)
 pen.width(2)
 pen.pencolor("white")
 
-num_colors = 100
+num_colors = 500
 for i in range(num_colors):
     hue = i / num_colors
     rgb = colorsys.hsv_to_rgb(hue, 1, 1)

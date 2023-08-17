@@ -1,7 +1,7 @@
 import turtle
 
 # Set up the turtle
-turtle.speed(30)
+turtle.speed(2)
 turtle.bgcolor("white")
 turtle.title("Indian Flag")
 
@@ -73,7 +73,7 @@ def draw_indian_flag():
     turtle.goto(0, content_2)
     turtle.pendown()
     turtle.color("black")
-    turtle.write("From Code to Canvas: Python Animation Magic - by pytech.academy ", align="center", font=("Arial", 20, "bold"))
+    turtle.write("From Code to Canvas: Python Animation Magic - by pytech.academy ", align="center", font=("Arial",30, "bold"))
 
 # Draw the Indian flag
 draw_indian_flag()
